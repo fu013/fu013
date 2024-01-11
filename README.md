@@ -1,4 +1,3 @@
-<div align="left"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Chan's&nbsp;GitHub&fontSize=60" /></div>
 <h4 align="left">📢 Introduction</h4>
 <h5 align="left">안녕하세요! 풀스택을 지향하는 주니어 웹 개발자입니다 : )</h5>
 <hr/>

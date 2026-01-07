@@ -3,18 +3,18 @@
 <hr/>
 <h4 align="left">📖 Tech Stack</h4>
 <div align="left">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
 	<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Typescript-262627?style=flat&logo=typescript&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 <div align="left">
+	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=Nestjs&logoColor=white" />
 	<img src="https://img.shields.io/badge/Codeigniter-EF4223?style=flat&logo=Codeigniter&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
 	<img src="https://img.shields.io/badge/Jquery-0769AD?style=flat&logo=jquery&logoColor=white" />

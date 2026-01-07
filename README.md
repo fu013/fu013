@@ -1,5 +1,5 @@
 <h4 align="left">📢 Introduction</h4>
-<h5 align="left">안녕하세요! 풀스택을 지향하는 주니어 웹 개발자입니다 : )</h5>
+<h5 align="left">안녕하세요. 개발자 이승찬입니다</h5>
 <hr/>
 <h4 align="left">📖 Tech Stack</h4>
 <div align="left">
